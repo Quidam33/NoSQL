@@ -1,0 +1,2 @@
+Insert time: 3.82 sec
+Read time: 0.91 sec
